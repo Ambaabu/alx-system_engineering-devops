@@ -1,6 +1,6 @@
 This is the 0x00. Shell, basics project for ALX School.
 
-Learning the following commands in this chapter:-
+Learning the following commands in this chapter
 cd
 ls
 pwd
