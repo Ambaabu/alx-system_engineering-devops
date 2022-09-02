@@ -1,4 +1,1 @@
-#!/bin/bash
 ls -l
- 
-this command lists contents of a file
